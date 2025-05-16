@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/seiren-primrose/PL-Baileys/",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git@github.com:seiren-primrose/PL-Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
