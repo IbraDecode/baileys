@@ -23,7 +23,8 @@
   "files": [
     "lib/*",
     "WAProto/*",
-    "WASignalGroup/*.js"
+    "WASignalGroup/*.js",
+    "engine-requirements.js"
   ],
   "scripts": {
     "build:all": "tsc && typedoc",
@@ -104,4 +105,7 @@
     }
   },
   "packageManager": "yarn@1.22.19"
+    "engines": {
+    "node": ">=20.0.0"
+    }
 }
